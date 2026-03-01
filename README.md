@@ -29,10 +29,12 @@
 
 **重磅发布**：本教程已转为 [Agent Skill](https://github.com/agentskills/agentskills)。现无需用人脑学习本教程，只需要为你的 Coding Agent ([Claude Code](https://github.com/anthropics/claude-code) / [Qwen Code](https://github.com/QwenLM/qwen-code)) 安装本 Skill，即可写出高质量的 LangChain 和 LangGraph 代码。详见：[SKILL.md](skills/dive-into-langgraph/SKILL.md)
 
-使用 npx 安装 Skill：
+使用 npx 安装 Skill：[dive-into-langgraph](https://skills.sh/luochang212/dive-into-langgraph/dive-into-langgraph)
 
 ```
-npx skills add https://github.com/luochang212/dive-into-langgraph/tree/main/skills/dive-into-langgraph
+npx skills \
+  add https://github.com/luochang212/dive-into-langgraph \
+  --skill dive-into-langgraph
 ```
 
 ## 一、项目介绍
