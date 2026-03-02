@@ -1,6 +1,6 @@
 ---
 name: dive-into-langgraph
-description: A comprehensive guide and reference for building agents using LangGraph 1.0, including ReAct agents, state graphs, and tool integrations. Requires API keys from DashScope (Alibaba Cloud) or ARK (Volcengine) to run the example scripts.
+description: A comprehensive guide and reference for building agents using LangGraph 1.0, including ReAct agents, state graphs, and tool integrations.
 ---
 
 # Dive Into LangGraph
