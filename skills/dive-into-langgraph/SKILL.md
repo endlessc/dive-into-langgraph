@@ -1,6 +1,6 @@
 ---
 name: dive-into-langgraph
-description: A comprehensive guide and reference for building agents using LangGraph 1.0, including ReAct agents, state graphs, and tool integrations.
+description: A comprehensive guide and reference for building agents using LangGraph 1.0, including ReAct agents, state graphs, and tool integrations. Requires API keys from DashScope (Alibaba Cloud) or ARK (Volcengine) to run the example scripts.
 ---
 
 # Dive Into LangGraph
@@ -28,10 +28,10 @@ pip install \
 
 ## 环境变量
 
-使用大模型需要设置环境变量，推荐使用阿里云百炼（DashScope）的模型：
+使用模型供应商的大模型需要设置环境变量，推荐使用阿里云百炼（DashScope）的模型：
 
 ```bash
-# 阿里百炼 (DashScope)
+# 阿里云百炼 (DashScope)
 # 获取地址: https://bailian.console.aliyun.com/
 DASHSCOPE_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1
 DASHSCOPE_API_KEY=your_api_key_here
@@ -44,7 +44,7 @@ ARK_API_KEY=your_api_key_here
 # 或者其他模型供应商...
 ```
 
-请将环境变量添加到 `.env` 文件，并填入你的 API Key。
+请将环境变量添加到 `.env` 文件，并填入你的 API key。
 
 ## 章节概览
 
