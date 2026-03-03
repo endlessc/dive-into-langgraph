@@ -36,23 +36,10 @@ def generate_response(message, history):
 
 # 自定义 CSS 样式
 custom_css = """
-@font-face {
-    font-family: 'Source Han Sans CN';
-    src: url('https://s2.loli.net/2024/06/10/3YNvDwcS7kK9P1E.woff2')  format('woff2');
-}
-
 html, body {
     height: 100%;
     margin: 0;
     overflow: hidden;
-}
-
-:root {
-    --primary: #007AFF;
-    --secondary: #0066CC;
-    --dark: #1C1C1E;
-    --light: #F2F2F7;
-    --gray: #E5E5EA;
 }
 
 /* 全局样式覆盖 */
@@ -117,10 +104,6 @@ html, body {
 #chatbot::-webkit-scrollbar-thumb {
     background-color: rgba(255, 255, 255, 0.1) !important;
     border-radius: 3px !important;
-}
-
-#chatbot::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(255, 255, 255, 0.2) !important;
 }
 
 #chatbot > .wrapper {
