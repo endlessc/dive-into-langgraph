@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <p><a href="https://www.luochang.ink/dive-into-langgraph/">📚 在线阅读地址</a></p>
+  <p><a href="https://luochang212.github.io/dive-into-langgraph/">📚 在线阅读地址</a></p>
   <h3>📖《LangGraph 1.0 完全指南》</h3>
   <p><em>从零开始，动手实现强大的智能体</em></p>
 </div>
@@ -114,11 +114,11 @@ pip install -r requirements.txt
 langgraph dev
 ```
 
-详见：[附录](https://www.luochang.ink/dive-into-langgraph/langgraph-cli/)
+详见：[附录](https://luochang212.github.io/dive-into-langgraph/langgraph-cli/)
 
 ## 五、实战章节
 
-[第 13 章](https://www.luochang.ink/dive-into-langgraph/gradio-app/) 开源了一个基于 Gradio + LangChain 实现的智能体应用，效果如下。你可以为这个应用添加更多功能，定制专属于你的智能体。
+[第 13 章](https://luochang212.github.io/dive-into-langgraph/gradio-app/) 开源了一个基于 Gradio + LangChain 实现的智能体应用，效果如下。你可以为这个应用添加更多功能，定制专属于你的智能体。
 
 ![gradio_app](./app/images/gradio_app.webp)
 

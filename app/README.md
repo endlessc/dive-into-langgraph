@@ -196,8 +196,8 @@ uv add -r requirements.txt
 
 在这里，找到关于本项目的更多介绍：
 
-- [《LangGraph 1.0 完全指南》第 13 章](https://www.luochang.ink/dive-into-langgraph/gradio-app/)
-- [《在树莓派上搭建家用 Agent 服务》](https://www.luochang.ink/posts/rpi_agent_server/)
+- [《LangGraph 1.0 完全指南》第 13 章](https://luochang212.github.io/dive-into-langgraph/gradio-app/)
+- [《在树莓派上搭建家用 Agent 服务》](https://luochang212.github.io/posts/rpi_agent_server/)
 
 ## 📝 更新记录
 
