@@ -34,9 +34,7 @@
 使用 npx 安装本 Skill ([dive-into-langgraph](https://skills.sh/luochang212/dive-into-langgraph/dive-into-langgraph))：
 
 ```
-npx skills \
-  add https://github.com/luochang212/dive-into-langgraph \
-  --skill dive-into-langgraph
+npx skills add luochang212/dive-into-langgraph
 ```
 
 ## 一、项目介绍
