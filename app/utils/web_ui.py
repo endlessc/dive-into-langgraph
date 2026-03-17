@@ -125,7 +125,8 @@ html, body {
 
 /* 确保消息行占满宽度并处理边距 */
 /* AI 回复头像及文字气泡 */
-#chatbot .bot-row {
+#chatbot .bot-row,
+#chatbot .message-wrap > div:has(> .avatar-container):not(.user-row) {
     margin-left: 15% !important; /* AI 消息向右移动 */
     width: 75% !important;
 }
